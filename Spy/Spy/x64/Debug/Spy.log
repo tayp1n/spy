@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  MainWindow.cpp
+F:\GitHyb\C-PlusPlus\Spy\Spy\MainWindow.cpp(233,17): warning C4244: инициализация: преобразование "LRESULT" в "UINT", возможна потеря данных
+  Spy.cpp
+  Создание кода...
+F:\GitHyb\C-PlusPlus\Spy\Spy\MainWindow.cpp(192): warning C4715: MainWindow::OnCommand: значение возвращается не при всех путях выполнения
+  Spy.vcxproj -> F:\GitHyb\C-PlusPlus\Spy\Spy\x64\Debug\Spy.exe
