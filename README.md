@@ -21,6 +21,4 @@ Menu processing occurs through the *WM_COMMAND* message in the *OnCommand* funct
 if you have any questions don't hesitate to <a href="mailto:holy.mail.100@gmail.com">contact me</a>. Looking forward to hearing from you. 
 
 ## My account LinkedIn
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazar-arshinskiy/)
-
-If you want to distribute a closed-source modification or service based on software_release_install_tools, then please consider <a href="mailto:holy.mail.100@gmail.com">purchasing an exception</a> . As with the methods above, this will help support continued development.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nazar-arshinskiy/).
